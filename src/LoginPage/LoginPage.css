@@ -1,0 +1,12 @@
+.loginPage {
+    margin: auto;
+    width: 30%;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    background: #707070;
+}
+
+.title {
+    color: #ffffff;
+    text-align: center;
+}

@@ -1,0 +1,32 @@
+.backlog {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 3%;
+    background: #a1a1a1;
+}
+
+.taskList {
+    flex: 1;
+    padding: 1rem;
+    height: 100%;
+    border-radius: 0.25rem;
+    background: #ffffff;
+    margin-right: 1rem;
+    overflow: scroll;
+}
+
+.indexTask {
+    width: 20%;
+}
+.nameTask {
+    width: 80%;
+}
+
+.taskDescription {
+    flex: 2;
+    padding: 1rem;
+    height: 100%;
+    border-radius: 0.25rem;
+    background: #ffffff;
+}
